@@ -1,0 +1,10 @@
+numpy
+transformers<=4.33.1
+torch
+sentencepiece
+tokenizers
+accelerate>=0.21.0
+deepspeed>=0.8.3
+peft
+bitsandbytes
+xformers
